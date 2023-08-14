@@ -87,6 +87,7 @@ config/hot_export_token.txt
 *.tif
 *.csv
 *.exe
+*checkpoint*
 
 .DS_Store
 
